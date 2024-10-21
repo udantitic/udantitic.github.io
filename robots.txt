@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://udantitic.github.io/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/app/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/assets/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/css/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/includes/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/item/udantitic.txt.gz
+Sitemap: https://udantitic.github.io/src/udantitic.txt.gz
